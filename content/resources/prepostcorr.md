@@ -5,6 +5,8 @@ description: Crosscorrelation between activity of cell pairs before and after 20
 file: /courses/9-96-experimental-methods-of-adjustable-tetrode-array-neurophysiology-january-iap-2001/f27b06173064f7416e3c8468efa22db6_PREPOSTCORR.PDF
 file_size: 4604
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

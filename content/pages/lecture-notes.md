@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides an introductory lecture that covers the outline
   of the course, along with the projects to be completed by the students.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
