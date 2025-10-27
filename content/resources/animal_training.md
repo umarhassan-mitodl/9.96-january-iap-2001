@@ -4,8 +4,6 @@ description: This resource contains information related to animal training.
 file: /courses/9-96-experimental-methods-of-adjustable-tetrode-array-neurophysiology-january-iap-2001/dbffec7a470ddfeae275bd23fcaa56e2_Animal_Training.pdf
 file_size: 184185
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
